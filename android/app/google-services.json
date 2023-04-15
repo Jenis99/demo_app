@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607969082661",
+    "project_id": "wakie-wakie-84090",
+    "storage_bucket": "wakie-wakie-84090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607969082661:android:312b8428bdb44392aa2ecc",
+        "android_client_info": {
+          "package_name": "com.wakie.wakiewakie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607969082661-fnnhd21ju6e9ok0gna1u0hnu37mvi3gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDQyF7ZOPjr2zCfr-zGrHUjb_9sRnNSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607969082661-fnnhd21ju6e9ok0gna1u0hnu37mvi3gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
